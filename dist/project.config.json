@@ -1,5 +1,5 @@
 {
-  "miniprogramRoot": "dist/",
+  "miniprogramRoot": "./",
   "projectname": "hospital",
   "description": "hospital decision",
   "appid": "wx310351590e2e25f9",
