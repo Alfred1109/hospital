@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "hospital",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
